@@ -38,4 +38,4 @@ print(f'Test Accuracy: {test_accuracy}')
 print(f'Test Loss: {test_loss}')
 
 
-model.save('pretranied_model/ptm.h5')
+model.save('pretranined_model/ptm.h5')
